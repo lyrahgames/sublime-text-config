@@ -1,0 +1,4 @@
+// These settings override both User and Default settings for the CMake syntax
+{
+	"color_scheme": "Packages/User/Colorsublime - Themes/2112.tmTheme"
+}

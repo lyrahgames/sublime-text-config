@@ -1,0 +1,9 @@
+{
+  "line_numbers": false,
+  "gutter": true,
+  "draw_centered": true,
+  "wrap_width": 85,
+  "word_wrap": true,
+  "scroll_past_end": true,
+  "highlight_line": true
+}
