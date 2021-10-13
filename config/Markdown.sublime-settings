@@ -1,5 +1,5 @@
 {
-	"color_scheme": "auto",
-	"light_color_scheme": "MarkdownEditor.sublime-color-scheme",
-	"dark_color_scheme": "MarkdownEditor-Dark.sublime-color-scheme",
+  "color_scheme": "auto",
+  "light_color_scheme": "MarkdownEditor.sublime-color-scheme",
+  "dark_color_scheme": "MarkdownEditor-Dark.sublime-color-scheme",
 }

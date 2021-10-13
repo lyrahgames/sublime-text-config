@@ -1,91 +1,91 @@
 {
-	// General Rendering
-	"ui_scale": 1.3,
-	"hardware_acceleration": "opengl",
-	// Theme
-	"theme": "auto",
-	"light_theme": "Default.sublime-theme",
-	"dark-theme": "Default Dark.sublime-theme",
+  // General Rendering
+  "ui_scale": 1.3,
+  "hardware_acceleration": "opengl",
+  // Theme
+  "theme": "auto",
+  "light_theme": "Default.sublime-theme",
+  "dark-theme": "Default Dark.sublime-theme",
 
-	// Status Bar
-	"show_encoding": true,
-	"show_line_endings": true,
+  // Status Bar
+  "show_encoding": true,
+  "show_line_endings": true,
 
-	// Tab Bar
-	"file_tab_style": "rounded",
-	"hide_tab_scrolling_buttons": true,
-	"hide_new_tab_button": true,
+  // Tab Bar
+  "file_tab_style": "rounded",
+  "hide_tab_scrolling_buttons": true,
+  "hide_new_tab_button": true,
 
-	// Sidebar
-	// Do not exclude any files or folders.
-	"file_exclude_patterns": [],
-	"folder_exclude_patterns": [],
-	// Do not search binary files.
-	"binary_file_patterns": [
-		"*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot",
-		"*.pdf", "*.swf", "*.jar", "*.zip", "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj",
-		"*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb",
-		"*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.sublime-workspace"
-	],
+  // Sidebar
+  // Do not exclude any files or folders.
+  "file_exclude_patterns": [],
+  "folder_exclude_patterns": [],
+  // Do not search binary files.
+  "binary_file_patterns": [
+    "*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot",
+    "*.pdf", "*.swf", "*.jar", "*.zip", "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj",
+    "*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb",
+    "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.sublime-workspace"
+  ],
 
-	// Minimap and Scrolling
-	"overlay_scroll_bars": "enabled",
-	"draw_minimap_border": true,
-	"always_show_minimap_viewport": true,
+  // Minimap and Scrolling
+  "overlay_scroll_bars": "enabled",
+  "draw_minimap_border": true,
+  "always_show_minimap_viewport": true,
 
-	// Editor Rendering
-	// Color Scheme
-	"color_scheme": "auto",
+  // Editor Rendering
+  // Color Scheme
+  "color_scheme": "auto",
 "light_color_scheme": "Packages/Theme - Elementary/schemes/Packages/Theme - Elementary/schemes/Mustang-Bianco.tmTheme",
 "dark_color_scheme": "Packages/Theme - Elementary/schemes/Packages/Theme - Elementary/schemes/Mustang-Obsidian.tmTheme",
-	// Font Settings
-	"font_face": "Source Code Pro Medium",
-	"font_size": 11,
-	//
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
-	//
-	"caret_style": "phase",
-	"highlight_line": true,
-	"highlight_gutter": true,
-	"highlight_line_number": true,
-	//
-	"draw_centered": true,
-	"word_wrap": true,
-	"wrap_width": 85,
-	"wrap_width_style": "min",
-	//
-	"tab_size": 2,
-	"draw_indent_guides": true,
-	"indent_guide_options": [
-		"draw_normal",
-		"draw_active"
-	],
+  // Font Settings
+  "font_face": "Source Code Pro Medium",
+  "font_size": 11,
+  //
+  "line_padding_bottom": 3,
+  "line_padding_top": 3,
+  //
+  "caret_style": "phase",
+  "highlight_line": true,
+  "highlight_gutter": true,
+  "highlight_line_number": true,
+  //
+  "draw_centered": true,
+  "word_wrap": true,
+  "wrap_width": 85,
+  "wrap_width_style": "min",
+  //
+  "tab_size": 2,
+  "draw_indent_guides": true,
+  "indent_guide_options": [
+    "draw_normal",
+    "draw_active"
+  ],
 
-	// Functionality
-	"highlight_modified_tabs": true,
-	"remember_full_screen": true,
-	"hide_pointer_while_typing": true,
-	"auto_hide_menu": true,
-	"auto_hide_tabs": true,
-	"auto_hide_status_bar": true,
-	"match_brackets_angle": true,
+  // Functionality
+  "highlight_modified_tabs": true,
+  "remember_full_screen": true,
+  "hide_pointer_while_typing": true,
+  "auto_hide_menu": true,
+  "auto_hide_tabs": true,
+  "auto_hide_status_bar": true,
+  "match_brackets_angle": true,
 
-	// Disabled Functionality
-	"enable_tab_scrolling": false,
-	"close_windows_when_empty": false,
-	"drag_text": false,
-	"ignored_packages": ["Vintage"],
+  // Disabled Functionality
+  "enable_tab_scrolling": false,
+  "close_windows_when_empty": false,
+  "drag_text": false,
+  "ignored_packages": ["Vintage"],
 
-	// File Content
-	"default_line_ending": "unix",
-	//
-	"dictionary": "Packages/Language - English/en_US.dic",
-	"spell_check": false,
+  // File Content
+  "default_line_ending": "unix",
+  //
+  "dictionary": "Packages/Language - English/en_US.dic",
+  "spell_check": false,
 
-	// Hooks for Automatic File Changes
-	"save_on_focus_lost": true,
-	"ensure_newline_at_eof_on_save": true,
-	"trim_trailing_white_space_on_save": true,
-	"translate_tabs_to_spaces": true,
+  // Hooks for Automatic File Changes
+  "save_on_focus_lost": true,
+  "ensure_newline_at_eof_on_save": true,
+  "trim_trailing_white_space_on_save": true,
+  "translate_tabs_to_spaces": true,
 }
