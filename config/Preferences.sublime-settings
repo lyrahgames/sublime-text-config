@@ -36,10 +36,10 @@
 	// Editor Rendering
 	// Color Scheme
 	"color_scheme": "auto",
-	"light_color_scheme": "Packages/Theme - Elementary/schemes/Packages/Theme - Elementary/schemes/Mustang-Bianco.tmTheme",
-	"dark_color_scheme": "Packages/Theme - Elementary/schemes/Packages/Theme - Elementary/schemes/Mustang-Obsidian.tmTheme",
+"light_color_scheme": "Packages/Theme - Elementary/schemes/Packages/Theme - Elementary/schemes/Mustang-Bianco.tmTheme",
+"dark_color_scheme": "Packages/Theme - Elementary/schemes/Packages/Theme - Elementary/schemes/Mustang-Obsidian.tmTheme",
 	// Font Settings
-	"font_face": "Source Code Pro",
+	"font_face": "Source Code Pro Medium",
 	"font_size": 11,
 	//
 	"line_padding_bottom": 3,

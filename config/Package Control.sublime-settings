@@ -1,24 +1,17 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
+	"in_process_packages": [],
+	"installed_packages": [
 		"A File Icon",
 		"AdvancedNewFile",
-		"Ansible",
-		"AutoFileName",
 		"build2",
 		"Clang Format",
 		"CMake",
-		"Colorsublime",
 		"Dockerfile Syntax Highlighting",
 		"EasyClangComplete",
 		"Enki Theme",
 		"fish",
 		"GAS-x86 (or x64) highlighting scheme",
-		"GitSavvy",
 		"Gnuplot",
 		"Hide Menu",
 		"Inc-Dec-Value",
@@ -26,10 +19,9 @@
 		"MarkdownEditing",
 		"MarkdownPreview",
 		"NASM x86 Assembly",
-		"Origami",
 		"Package Control",
+		"PackageDev",
 		"ProjectManager",
-		"RustFmt",
 		"SideBarEnhancements",
 		"Terminal",
 		"Terminus",
