@@ -4,15 +4,20 @@ set -l sublime_text_user_dir $sublime_text_packages_dir/User
 
 # Start Sublime Text and wait a little bit.
 # Otherwise, following Sublime Text commands will not be executed.
-subl && sleep 5s
+subl && sleep 1s
 
 # Install Package Control.
 subl --command install_package_control && sleep 15s
+subl --command exit && sleep 1s
 
-subl --command exit && sleep 5s
+mkdir -p $sublime_text_user_dir
+
+# Sync packages.
+cp "config/Package Control.sublime-settings" $sublime_text_user_dir/.
+subl && sleep 60s
+subl --command exit && sleep 1s
 
 # Copy configurations.
-mkdir -p $sublime_text_user_dir
 cp config/* $sublime_text_user_dir/.
 
 # Dictionaries

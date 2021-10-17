@@ -3,4 +3,3 @@
 source arch/install.fish
 install
 source scripts/run.fish
-
