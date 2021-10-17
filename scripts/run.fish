@@ -23,4 +23,9 @@ cp config/* $sublime_text_user_dir/.
 # Dictionaries
 git clone --depth 1 https://github.com/titoBouzout/Dictionaries.git $sublime_text_packages_dir/Dictionaries
 
+# Set configuration
+subl && sleep 10s
+subl --command exit && sleep 1s
+
+# Open this project.
 subl .
